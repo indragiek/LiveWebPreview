@@ -23,4 +23,4 @@ If you prefer to not compile the source, download a compiled build [here](http:/
 
 ### License
 
-LiveWebPreview is licensed under MIT. See [LICENSE.md](http://github.com/indragiek/LiveWebPreview/master/LICENSE.md) for more information.
+LiveWebPreview is licensed under MIT. See [LICENSE.md](https://github.com/indragiek/LiveWebPreview/blob/master/LICENSE.md) for more information.
